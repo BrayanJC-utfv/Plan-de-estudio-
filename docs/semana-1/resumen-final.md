@@ -1,3 +1,4 @@
+Dia 5: cierre de semana y estandar de trabjo
 
 Indice de documentacion semana 1
 1.Resumir rquitectura, roles de carpetas y mitigacion de riesgos - docs/semana-1/arquitectura.md
